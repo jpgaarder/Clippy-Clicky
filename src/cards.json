@@ -1,0 +1,62 @@
+[
+    {
+      "id": 1,
+      "image": "./images/clippy1.jpg",
+      "clicked": false
+    },
+    {
+      "id": 2,
+      "image": "./images/clippy2.jpg",
+      "clicked": false
+    },
+    {
+      "id": 3,
+      "image": "./images/clippy3.jpg",
+      "clicked": false
+    },
+    {
+      "id": 4,
+      "image": "./images/clippy4.png",
+      "clicked": false
+    },
+    {
+      "id": 5,
+      "image": "./images/clippy5.jpg",
+      "clicked": false
+    },
+    {
+      "id": 6,
+      "image": "./images/clippy6.jpg",
+      "clicked": false    
+    },
+    {
+      "id": 7,
+      "image": "./images/clippy7.jpg",
+      "clicked": false
+    },
+    {
+      "id": 8,
+      "image": "./images/clippy8.jpg",
+      "clicked": false
+    },
+    {
+      "id": 9,
+      "image": "./images/clippy9.jpg",
+      "clicked": false
+    },
+    {
+      "id": 10,
+      "image": "./images/clippy10.png",
+      "clicked": false
+    },
+    {
+      "id": 11,
+      "image": "./images/clippy11.jpg",
+      "clicked": false
+    },
+    {
+      "id": 12,
+      "image": "./images/clippy12.png",
+      "clicked": false
+    }
+  ]
